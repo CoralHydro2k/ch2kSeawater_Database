@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report an Issue with the database
+about: Create an issue with the database to help us recognise any errors
 title: ''
 labels: ''
 assignees: ''
@@ -8,10 +8,13 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. This includes;
+- the version of the database 
+- the sample ID 
+- author and year of the sample
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Steps to reproduce the behaviour:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
