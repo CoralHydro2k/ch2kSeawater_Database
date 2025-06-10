@@ -14,11 +14,7 @@ A clear and concise description of what the bug is. This includes;
 - author and year of the sample
 
 **To Reproduce**
-Steps to reproduce the behaviour:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Please outline any steps you think are relevant to reproduce the error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
