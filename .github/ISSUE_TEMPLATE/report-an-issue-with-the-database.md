@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+*Send this filled in template to the issues function on github*
+
 **Describe the bug**
 A clear and concise description of what the bug is. This includes;
 - the version of the database 
