@@ -1,3 +1,6 @@
+%% Code written by Chandler Morris for filtering and plotting a section of the CoralHydro2k d18Osw database
+% Current as of 18-12-2025
+
 %% Load database
 data = readtable('CoralHydro2k_Seawater_1_0_0.csv');
 
