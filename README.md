@@ -3,7 +3,7 @@ Example jupyter notebook to handle, explore and visualize the PAGES CoralHydro2k
 
 The database is archived at NOAA paleo, and can be accessed at ncei.noaa.gov/access/paleo-search/study/35453
 
-If you have new data to submit to the database you can do so here - https://www.earthchem.org/communities/seawater-oxygen-isotopes/ using the template (https://www.earthchem.org/wp-content/uploads/2024/12/Seawater_Oxygen_Isotopes_Template_December2024.xlsx)
+If you have new data to submit to the database you can do so here - https://www.earthchem.org/communities/seawater-oxygen-isotopes/ using the template provided.
 
 
 
