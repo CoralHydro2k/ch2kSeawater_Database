@@ -23,6 +23,6 @@ You can contribute by:
 
 - Opening an Issue for bugs, data problems, or feature requests. There is a template available for bugs and issues.
 
-- Starting a Discussion to share example code, ask questions, or learn from others.
+- Starting a Discussion to share example code, ask questions, or learn from others. Have a look at the discussion page for information on how to share information!
 
 The authors are happy to assist and engage with contributors.
