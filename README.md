@@ -1,11 +1,28 @@
-# ch2kSeawater_Database
-Example Jupyter notebook, and MATLAB script to handle, explore and visualise the PAGES CoralHydro2k Seawater δ18O Database: A FAIR-aligned compilation of seawater δ18O data to uncover 'hidden' insights from the global ocean.
+## About this repository
 
-The database is archived at NOAA paleo, and can be accessed at ncei.noaa.gov/access/paleo-search/study/35453
+This repository contains example Jupyter notebooks and MATLAB scripts to handle, explore, and visualise the
+PAGES CoralHydro2k Seawater δ¹⁸O Database — a FAIR-aligned compilation of seawater δ¹⁸O data designed to uncover hidden insights from the global ocean.
 
-If you have new data to submit to the database you can do so here - https://www.earthchem.org/communities/seawater-oxygen-isotopes/ using the template provided.
+### Database access
 
-In line with the publication, we invite users to share their scripts to enhance access and use of the database by adding files to this repository or submitting an issue/request, with the authors available to assist.
+The official CoralHydro2k Seawater δ¹⁸O database is archived at NOAA Paleoclimatology and can be accessed here:
+- https://www.ncei.noaa.gov/access/paleo-search/study/35453
 
+### Submitting new data
 
+New seawater δ¹⁸O data contributions should be submitted via EarthChem, using the provided community template:
+- https://www.earthchem.org/communities/seawater-oxygen-isotopes/
 
+### Community contributions & shared learning
+
+In line with the associated publication, we invite users to share scripts, workflows, and examples that enhance access to and use of the database.
+
+You can contribute by:
+
+- Adding scripts or notebooks via a pull request to this repository
+
+- Opening an Issue for bugs, data problems, or feature requests
+
+- Starting a Discussion to share example code, ask questions, or learn from others
+
+The authors are happy to assist and engage with contributors.
