@@ -19,10 +19,10 @@ In line with the associated publication, we invite users to share scripts, workf
 
 You can contribute by:
 
-- Adding scripts or notebooks via a pull request to this repository
+- Adding scripts or notebooks via a pull request to this repository.
 
-- Opening an Issue for bugs, data problems, or feature requests
+- Opening an Issue for bugs, data problems, or feature requests. There is a template available for bugs and issues.
 
-- Starting a Discussion to share example code, ask questions, or learn from others
+- Starting a Discussion to share example code, ask questions, or learn from others.
 
 The authors are happy to assist and engage with contributors.
